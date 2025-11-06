@@ -5,7 +5,7 @@
 
 - 🚀 Passionate about **AI and Machine Learning.**
 
-[![Huan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvd1026)](https://github.com/anuraghazra/github-readme-stats)
+[![Huan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvd1026)](https://github.com/hvd1026)
 <p align="left">
 </p>
 
